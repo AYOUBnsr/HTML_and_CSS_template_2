@@ -4,6 +4,8 @@ This repository contains the complete source code for **HTML & CSS Template Two*
 
 ![Opera Instantané_2025-01-14_134534_ayoubnsr github io](https://github.com/user-attachments/assets/3d9d7391-b926-4e46-883b-17b3b9aaff50)
 
+You can check out the live version of the template here: [Special Template](https://ayoubnsr.github.io/HTML_and_CSS_template_2/)
+
 ## Project Overview
 I created this template to enhance my skills in responsive web design and layout techniques. The project covers a wide range of components, including complex layouts, interactive elements, and responsive behavior to ensure a great user experience across different devices.
 
