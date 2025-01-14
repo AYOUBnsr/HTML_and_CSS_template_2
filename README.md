@@ -8,20 +8,20 @@ This repository contains the complete source code for **HTML & CSS Template Two*
 I created this template to enhance my skills in responsive web design and layout techniques. The project covers a wide range of components, including complex layouts, interactive elements, and responsive behavior to ensure a great user experience across different devices.
 
 ## Features
-- **Header**: A responsive header with navigation links.
-- **Landing Section**: A visually appealing hero section.
-- **Services Section**: Highlights the key services provided.
-- **Design Section**: A dedicated section to showcase design elements.
-- **Portfolio Section**: Displays a collection of project samples.
-- **Video Section**: Embeds a video element.
-- **About Section**: Provides an introduction or description.
-- **Statistics Section**: Shows important statistics with counters.
-- **Our Skills Section**: A skill showcase with progress bars and testimonials.
-- **Quote Section**: Displays an inspirational quote.
-- **Pricing Section**: Contains pricing plans for services or products.
-- **Subscribe Section**: A call-to-action for newsletter subscriptions.
-- **Contact Us Section**: Includes a contact form for user inquiries.
-- **Footer**: A clean footer with additional information and links.
+- 👉**Header**: A responsive header with navigation links.
+- 👉**Landing Section**: A visually appealing hero section.
+- 👉**Services Section**: Highlights the key services provided.
+- 👉**Design Section**: A dedicated section to showcase design elements.
+- 👉**Portfolio Section**: Displays a collection of project samples.
+- 👉**Video Section**: Embeds a video element.
+- 👉**About Section**: Provides an introduction or description.
+- 👉**Statistics Section**: Shows important statistics with counters.
+- 👉**Our Skills Section**: A skill showcase with progress bars and testimonials.
+- 👉**Quote Section**: Displays an inspirational quote.
+- 👉**Pricing Section**: Contains pricing plans for services or products.
+- 👉**Subscribe Section**: A call-to-action for newsletter subscriptions.
+- 👉**Contact Us Section**: Includes a contact form for user inquiries.
+- 👉**Footer**: A clean footer with additional information and links.
 
 ## How to Use the Template
 1. Clone or download the repository.
